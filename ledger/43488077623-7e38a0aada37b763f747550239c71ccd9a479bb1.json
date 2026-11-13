@@ -1,0 +1,365 @@
+{
+  "commit": "7e38a0aada37b763f747550239c71ccd9a479bb1",
+  "commits": [
+    {
+      "author_email_sha256": "2ec9846aa81c35983fbe8f05ca33e064fdac37cd1a375bb7a60646bcb0575826",
+      "author_name_declared": "JORGE FRANCISCO PAREDES",
+      "authored_at_declared": "2026-11-13T11:00:34-08:00",
+      "sha": "7e38a0aada37b763f747550239c71ccd9a479bb1",
+      "subject": "Install AEGIS GitHub IP SHIELD provenance workflow (#1)"
+    },
+    {
+      "author_email_sha256": "eebed2f98075d2d356c0a8d1edf6527c8db30e789a8d28dadbab18c005da2943",
+      "author_name_declared": "Nico Albanese",
+      "authored_at_declared": "2025-04-30T21:51:54+01:00",
+      "sha": "9d435cfd47b03e5318557ae4d1ee5f6939dba978",
+      "subject": "Merge pull request #3 from vercel-labs/na/add-mouse-drag"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T21:48:03+01:00",
+      "sha": "0a0f87d55fedba420e8473f73309c14314d478c0",
+      "subject": "format"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T21:46:57+01:00",
+      "sha": "7c0be58c1d5b67f1f9e9b00a74c009643db886de",
+      "subject": "Update tool.ts"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T15:13:38+01:00",
+      "sha": "b1295325aba1a58f7527e96f672deb2012fb695c",
+      "subject": "Update docs link in project info component"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T14:06:49+01:00",
+      "sha": "96ad88ca66f42b7b178101a1762884a029b86b7b",
+      "subject": "add example env file"
+    },
+    {
+      "author_email_sha256": "eebed2f98075d2d356c0a8d1edf6527c8db30e789a8d28dadbab18c005da2943",
+      "author_name_declared": "Nico Albanese",
+      "authored_at_declared": "2025-04-30T13:18:30+01:00",
+      "sha": "451373a0dce20b0391e92f6f8ae7fcec23183c46",
+      "subject": "Merge pull request #1 from vercel-labs/na/kill-desktop-on-page-close"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T13:14:02+01:00",
+      "sha": "676637285f2d1fa0479bc68feba0cac9d7f10c10",
+      "subject": "remove logs"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T13:13:34+01:00",
+      "sha": "993b031107886b23b5f42521b82cacbb2b8e52c6",
+      "subject": "working across platform"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T11:43:21+01:00",
+      "sha": "32ec6742160ee0d3cb2fb042ed0f57a0e87c3268",
+      "subject": "Remove unused param"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T11:40:20+01:00",
+      "sha": "b56d6e35ada5d28b6cc9ef661c66b6bca17a2380",
+      "subject": "remove unused import"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-30T11:39:18+01:00",
+      "sha": "36bbad8463d90a1718028785f12da642864a9f16",
+      "subject": "add kill desktop on window close functionality"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-29T19:14:59+01:00",
+      "sha": "6684b1741f03738c6c42e11bd78d6a2c9fa4bc14",
+      "subject": "add opengraph image"
+    },
+    {
+      "author_email_sha256": "a96fc388af5799a47add6c3ea0f2ae138a61e5398c46f853a4f66b0c386a2651",
+      "author_name_declared": "nicoalbanese",
+      "authored_at_declared": "2025-04-29T18:48:09+01:00",
+      "sha": "bb991ef4223efaf9e01879d5386883df59d00b4e",
+      "subject": "Initial commit"
+    }
+  ],
+  "file_count_recorded": 40,
+  "file_inventory_truncated_at_25000": false,
+  "files": [
+    {
+      "git_blob_oid": "a822927e3d91ea67f1c65980b54bf3650c0e23b6",
+      "mode": "100644",
+      "path": ".env.example",
+      "sha256": "d972614897c896cbd61d0543cb934747df9fc331b83f1328cfdc62eaf1f5aa72"
+    },
+    {
+      "git_blob_oid": "496523ebf8a2f8179732701a82e626efb6977e8c",
+      "mode": "100644",
+      "path": ".github/workflows/aegis-ip-shield.yml",
+      "sha256": "6b128bd094d276f1cbe06adb086ac00a7489b6131663092ec8ffe077d54ac56b"
+    },
+    {
+      "git_blob_oid": "0827084abf627c0032ce48de070589375a0effd7",
+      "mode": "100644",
+      "path": ".gitignore",
+      "sha256": "6a1a50b2b85cf4878d631a255ace2505b8d210648a2d9282ed0df88919b65a91"
+    },
+    {
+      "git_blob_oid": "06f67ff2227bb8a2ea057f61945180ec1d11ad25",
+      "mode": "100644",
+      "path": "README.md",
+      "sha256": "16f5db8eb55c2c01619a8d2dc4df5e3529f316593c0326079e11e812e2bd64d4"
+    },
+    {
+      "git_blob_oid": "25d858a27eea99c1f6fdcfcbd027f454c0bc04a6",
+      "mode": "100644",
+      "path": "app/api/chat/route.ts",
+      "sha256": "0b8f631835c25ecd6a3784dd6e3158bae33ab3fb75a262179e314c903624fdc2"
+    },
+    {
+      "git_blob_oid": "28e4c53d8c627caca91526086ee4575d3896698d",
+      "mode": "100644",
+      "path": "app/api/kill-desktop/route.ts",
+      "sha256": "4a3759c832ba7d10f812d41f58be05fd392f78eda30a1e777121a6b3f5ec4632"
+    },
+    {
+      "git_blob_oid": "718d6fea4835ec2d246af9800eddb7ffb276240c",
+      "mode": "100644",
+      "path": "app/favicon.ico",
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+    },
+    {
+      "git_blob_oid": "d16c4991abfaeeefbe7a4c3f2533d7e0bf3233f5",
+      "mode": "100644",
+      "path": "app/globals.css",
+      "sha256": "e3cb91390a4d42ae4c51c9d74833d1504c9d21151b3c5ed4b72b19e6bd5abf0a"
+    },
+    {
+      "git_blob_oid": "0b34ed52ab45e7a7cbc1f911a100d627fc109367",
+      "mode": "100644",
+      "path": "app/layout.tsx",
+      "sha256": "c3755781f7f0a1a64046764a2dd50da5361a81c9fd5bd46a650d2c07f8eb9165"
+    },
+    {
+      "git_blob_oid": "4c99e75cf285c3c3eb0e1a3ba690d59e17fd981c",
+      "mode": "100644",
+      "path": "app/opengraph-image.png",
+      "sha256": "a7426c9ffef64438447e7e2bb32e1ee67e01706bef37b57d1d06596c07830a76"
+    },
+    {
+      "git_blob_oid": "26fc54e5dd1e2e01ec570e2312b58040a5071a8d",
+      "mode": "100644",
+      "path": "app/page.tsx",
+      "sha256": "8cff341f756b1db92b552b1d15f65f25a0a3ace2f29672ef17b7e2c1e9e39133"
+    },
+    {
+      "git_blob_oid": "4c99e75cf285c3c3eb0e1a3ba690d59e17fd981c",
+      "mode": "100644",
+      "path": "app/twitter-image.png",
+      "sha256": "a7426c9ffef64438447e7e2bb32e1ee67e01706bef37b57d1d06596c07830a76"
+    },
+    {
+      "git_blob_oid": "5a3c7506d04ec327bedd759a52abc127316cc1d1",
+      "mode": "100644",
+      "path": "components.json",
+      "sha256": "8d7a7003b8277ee00caf152e926901f511619e4babb9cfdf1b08fe70d45231ce"
+    },
+    {
+      "git_blob_oid": "70d17ea0282433a80fa3182084ea2b465efb3e3f",
+      "mode": "100644",
+      "path": "components/icons.tsx",
+      "sha256": "7ac4b205c47c229e0657d9fe6ae2d516cfb9f0f92e75ca86eb9815014f6ba5b6"
+    },
+    {
+      "git_blob_oid": "d3dc8c172c77149d79f918b1abd9a6f52fa34093",
+      "mode": "100644",
+      "path": "components/input.tsx",
+      "sha256": "c8f5c68f2422513e2014df3d2866d8827c6f8f7fea95ec013c31c885fa3ebc36"
+    },
+    {
+      "git_blob_oid": "bd47cc446ecb3c4940a36399a3a53956e0c64796",
+      "mode": "100644",
+      "path": "components/markdown.tsx",
+      "sha256": "b2ce97d5909b5e958684b178a80fb4d7790606034e9db72d6ef4352d22b993bd"
+    },
+    {
+      "git_blob_oid": "dec9030fe49e0d4e1ebc1c6d8cca3c258f7a0af0",
+      "mode": "100644",
+      "path": "components/message.tsx",
+      "sha256": "b2be8a25df6102482ecb0e2ba0656a91e3059582819da5ecc83197dc0eac2631"
+    },
+    {
+      "git_blob_oid": "ebcddf98f47342c781561f2ff7264f4b20924871",
+      "mode": "100644",
+      "path": "components/project-info.tsx",
+      "sha256": "f2e5560619cdf5b9a2d337bd085decb9386f778a20ca1a1f106ba2664e07f1b2"
+    },
+    {
+      "git_blob_oid": "f63b4c252ab72641ffa38b7ba773ecbd0681d219",
+      "mode": "100644",
+      "path": "components/prompt-suggestions.tsx",
+      "sha256": "59f9dc6da8f6f1058c4062750d6aa60437f828621c245dc79efef0976d3fbe59"
+    },
+    {
+      "git_blob_oid": "81aaeef2ed1b1687de10f407d642d0a82e4def1e",
+      "mode": "100644",
+      "path": "components/ui/button.tsx",
+      "sha256": "409de912fd16ca847395da421da130541f99b76e8d38688f7dc1a575a451c528"
+    },
+    {
+      "git_blob_oid": "86d2dbc3fa5797ec24a8182bba42ac2c617970f6",
+      "mode": "100644",
+      "path": "components/ui/input.tsx",
+      "sha256": "a54ec0648a8f9ea6fef1368b3392530e3be693f86c48a86a9d64f57b3b01c838"
+    },
+    {
+      "git_blob_oid": "fb5fbc3eee891a5c118bb00fd153273c16959c9e",
+      "mode": "100644",
+      "path": "components/ui/label.tsx",
+      "sha256": "9ec42c8a57e82311118b794318409ee02b2cebfa49ba6cce8457cff6448cd471"
+    },
+    {
+      "git_blob_oid": "d22b86dc5fe708332b6ed5459e35ad07516baed1",
+      "mode": "100644",
+      "path": "components/ui/resizable.tsx",
+      "sha256": "a813efc7dbf7b54b59a653fb16bd4c73fa5e8984936dec2c65b27aae7730f9ba"
+    },
+    {
+      "git_blob_oid": "b177cf955dab4c4f257bf0292dee73d3391cd30a",
+      "mode": "100644",
+      "path": "components/ui/sonner.tsx",
+      "sha256": "a7a26c912341a31989fe65c9521b9afd9e479bc8a3c0b60d04cfb0624dae0d5e"
+    },
+    {
+      "git_blob_oid": "388bd0b368fe13fee2faf95bca71b77f4ec8d3ae",
+      "mode": "100644",
+      "path": "docs/IP_SHIELD_GITHUB.md",
+      "sha256": "3ec29db7ad1cad94930399e26b32b7921e113253444c0e0c80bb0617e5504c1e"
+    },
+    {
+      "git_blob_oid": "c85fb67c463f20d1ee449b0ffee725a61dfb9259",
+      "mode": "100644",
+      "path": "eslint.config.mjs",
+      "sha256": "3de4ba23ff1f687685651cad622700613998de80daa30ac4d82c47776a04019d"
+    },
+    {
+      "git_blob_oid": "451a4effa19624a2604999887fc3cc65a4c842ae",
+      "mode": "100644",
+      "path": "lib/e2b/tool.ts",
+      "sha256": "af9e88ebb35a30aff3e5be8f5a167ea95307a29a2574aa0fc2eea71db9a154a7"
+    },
+    {
+      "git_blob_oid": "737beb74acb7dcece0371463de67e1acbb8bb163",
+      "mode": "100644",
+      "path": "lib/e2b/utils.ts",
+      "sha256": "7c3dc27a1292b005475bcf1861f7cb73b5125b21e3074ef555efcc04fbb5f884"
+    },
+    {
+      "git_blob_oid": "2bdc0039ecdb8edad7791f23c7f9809a0ad012fc",
+      "mode": "100644",
+      "path": "lib/use-scroll-to-bottom.tsx",
+      "sha256": "382f68e36a6e2df0fa9a44aec968c9870cd77e8590c3fc4805c55a241e543150"
+    },
+    {
+      "git_blob_oid": "227d99471c65f71225e20332347eee0bc3aacfdc",
+      "mode": "100644",
+      "path": "lib/utils.ts",
+      "sha256": "8269701f633ca74c75252e78b2584344aa12e3297858321f931280c6248f6470"
+    },
+    {
+      "git_blob_oid": "16cb626d545fb00bc1bdc03b89068d9f3230cc60",
+      "mode": "100644",
+      "path": "next.config.ts",
+      "sha256": "dae53e9bf772990b892292a44d04cdad6836ba0d78abab126b2a2704aa154382"
+    },
+    {
+      "git_blob_oid": "ed5d9ab79ae51d75de4d3f06e174b356955c2ad1",
+      "mode": "100644",
+      "path": "package.json",
+      "sha256": "edf2090a5dc2888c52afe36bad37bc054a53d1179fe9694aa50283e546ca012e"
+    },
+    {
+      "git_blob_oid": "37250bbe36eafbb8d7e1d7c778cdb1ec7d62c15c",
+      "mode": "100644",
+      "path": "pnpm-lock.yaml",
+      "sha256": "6646c87fe2632cde8fb1ebf7d1a0b765da6181279baeee336af632f521e4079e"
+    },
+    {
+      "git_blob_oid": "c7bcb4b1ee14cd5e25078c2c934529afdd2a7df9",
+      "mode": "100644",
+      "path": "postcss.config.mjs",
+      "sha256": "141ef24ca27a99d08962210fdf20212d3435fdcfa21b46cd88b44d22f751dfae"
+    },
+    {
+      "git_blob_oid": "004145cddf3f9db91b57b9cb596683c8eb420862",
+      "mode": "100644",
+      "path": "public/file.svg",
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4"
+    },
+    {
+      "git_blob_oid": "567f17b0d7c7fb662c16d4357dd74830caf2dccb",
+      "mode": "100644",
+      "path": "public/globe.svg",
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf"
+    },
+    {
+      "git_blob_oid": "5174b28c565c285e3e312ec5178be64fbeca8398",
+      "mode": "100644",
+      "path": "public/next.svg",
+      "sha256": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc"
+    },
+    {
+      "git_blob_oid": "77053960334e2e34dc584dea8019925c3b4ccca9",
+      "mode": "100644",
+      "path": "public/vercel.svg",
+      "sha256": "f081337b2fee635b455b63275406a3e7f39d6a014e25ad90dab5a67e62a12ac4"
+    },
+    {
+      "git_blob_oid": "b2b2a44f6ebc70c450043c05a002e7a93ba5d651",
+      "mode": "100644",
+      "path": "public/window.svg",
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1"
+    },
+    {
+      "git_blob_oid": "d8b93235f205efbea6e8fceb1c9ddb57ddddf28d",
+      "mode": "100644",
+      "path": "tsconfig.json",
+      "sha256": "ed2bc19510589ae5c0940b5e4504c6c0413ba285ae35a3d4ad9db5f5d3a8eb51"
+    }
+  ],
+  "generated_at_utc_runner_clock": "2026-11-13T19:03:55.797011+00:00",
+  "limits": [
+    "Git author and timestamp fields are declared metadata, not verified identity or trusted time.",
+    "Hashes identify recorded bytes; they do not prove authorship, originality, ownership or infringement.",
+    "The report contains paths and hashes, not source-file contents.",
+    "The runner clock is not a trusted timestamp authority.",
+    "Third-party and joint contributions retain applicable rights and licenses.",
+    "The ledger branch is versioned evidence, not immutable storage.",
+    "Only this repository and triggered refs are covered."
+  ],
+  "manifest_type": "AEGIS_GITHUB_IP_SHIELD_PROVENANCE",
+  "manifest_version": "1.0",
+  "ref": "refs/heads/main",
+  "ref_name": "main",
+  "repository": "irstabyjorge/ai-sdk",
+  "tree": "e812f8d0cff944f0406214a5ee95e4e2c570142f",
+  "workflow_run_attempt": "1",
+  "workflow_run_id": "43488077623"
+}
